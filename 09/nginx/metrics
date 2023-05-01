@@ -1,0 +1,15 @@
+# HELP s21_cpu_usage CPU usage.
+# TYPE s21_cpu_usage gauge
+s21_cpu_usage 1.84
+# HELP s21_mem_free Free memory.
+# TYPE s21_mem_free gauge
+s21_mem_free 16349980
+# HELP s21_mem_used Used memory.
+# TYPE s21_mem_used gauge
+s21_mem_used 6601736
+# HELP s21_disk_used Used disk.
+# TYPE s21_disk_used gauge
+s21_disk_used 32222064
+# HELP s21_disk_available Available disk.
+# TYPE s21_disk_available gauge
+s21_disk_available 65544128
